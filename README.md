@@ -2,7 +2,7 @@
 This project aims to produce small bore electromagnets using printed circuit boards instead of traditional wire coils or stacked plates. 
 
 Topologies which will be tested first:
-- Bitter Electromagnet (Mostly seeking to characterise the effects of current on field strength, before it catches fire)
+- Bitter Electromagnet
 - Stacked PCBs forming a solenoid with a ferrite core
 - Helmholtz Coil and Maxwell Coil
 
